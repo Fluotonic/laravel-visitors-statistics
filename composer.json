@@ -1,5 +1,5 @@
 {
-    "name": "aleksa/laravel-visitors-statistics",
+    "name": "fluotonic/laravel-visitors-statistics",
     "description": "Simple visitor tracker and statistics package for Laravel 5 that can be used for dashboard graphs.",
     "type": "library",
     "license": "MIT",
